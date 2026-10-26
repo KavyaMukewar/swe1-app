@@ -4,3 +4,5 @@
 [![Coverage Status](https://coveralls.io/repos/github/KavyaMukewar/swe1-app/badge.svg?branch=main)](https://coveralls.io/github/KavyaMukewar/swe1-app?branch=main)
 
 Django polls tutorial app (parts 1-4), deployed to AWS Elastic Beanstalk.
+
+CI test PR.
